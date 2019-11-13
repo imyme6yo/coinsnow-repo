@@ -1,0 +1,57 @@
+[
+    {
+        "name": "houbi_korea",
+        "type": "ws",
+        "url": ""
+    },
+    {
+        "name": "bithumb",
+        "type": "ws",
+        "url": ""
+    },
+    {
+        "name": "upbit",
+        "type": "ws",
+        "url": ""
+    },
+    {
+        "name": "gopax",
+        "type": "ws",
+        "url": ""
+    },
+    {
+        "name": "poloniex",
+        "type": "ws",
+        "url": ""
+    },
+    {
+        "name": "houbi_korea",
+        "type": "api",
+        "url": "",
+        "call_limit": ""
+    },
+    {
+        "name": "bithumb",
+        "type": "api",
+        "url": "",
+        "call_limit": ""
+    },
+    {
+        "name": "upbit",
+        "type": "api",
+        "url": "",
+        "call_limit": ""
+    },
+    {
+        "name": "gopax",
+        "type": "api",
+        "url": "",
+        "call_limit": ""
+    },
+    {
+        "name": "poloniex",
+        "type": "api",
+        "url": "",
+        "call_limit": ""
+    }
+]
